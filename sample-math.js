@@ -1,0 +1,1 @@
+const customMath = require('./custom-math')
